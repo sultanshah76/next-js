@@ -23,6 +23,7 @@ function rootlayout({
     <Link href="/react">REACT</Link>
     <Link href="/react/Advance-learning"><Image src={logo1} alt="REACT ADVANCE LEARNING"
     width={50} height={50}/></Link>
+    <Link href="/tailwind">TAILWIND LEARNING</Link>
   </header>
         {children}
         <footer className="bg-gray-500 flex justify-center py-5">
